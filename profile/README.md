@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/apilots/talos/main/build/brand/talos-logo.png" width="120" alt="Talos logo" />
+  <img src="https://raw.githubusercontent.com/apilots/.github/main/profile/assets/talos-logo.png" width="120" alt="Talos logo" />
 </p>
 
 <h1 align="center">Talos</h1>
